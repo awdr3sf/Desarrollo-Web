@@ -1,0 +1,19 @@
+
+.contenedor-gird{
+    width: 100%;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas: "menu"
+                         "contenido contenido contenido";
+ 
+}
+
+.contenedor-gird .menu{
+    grid-area: menu;
+}
+.contenedor-grid .contenido{
+    grid-area: contenido;
+   
+   
+}

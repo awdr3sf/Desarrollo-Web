@@ -1,0 +1,30 @@
+Luego de terminar este curso puedes saber que el internet funciona con 3 herramientas las cuales son: HTML, CSS, JavaScript, que son los tres lenguajes de programación para crear aplicaciones web.
+
+HTML (Lenguaje de marcas de hipertexto), es el lenguaje donde se define la información o el contenido del documento. El formato de los archivos es .html.
+
+CSS (Lenguaje de estilos en cascada), es el lenguaje donde se especifica el diseño del documento, maneja todo lo relacionado con la parte visual. El formato de los archivos es .css.
+
+JavaScript, es el lenguaje que hace que todo sea interactivo y que nos permite crear sitios web El formato de los archivos es .js. Además, es el lenguaje de programación que interpreta el navegador.
+
+Nunca pero NUNCA se te olvide que ¡JAVASCRIPT o JS (para abreviar) no es JAVA!
+Java es un lenguaje para servidores, aplicaciones de escritorio y aplicaciones Android.
+JavaScript es el lenguaje de la web, servidores, robots, etc.
+
+Todo lenguaje de programación, no solo javascript; trabaja con variables, condicionales, eventos, funciones, clases y arreglos.
+Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor. Gracias a las variables es posible crear “programas genéricos”, es decir, programas que funcionan siempre igual e independientemente de los valores concretos utilizados.
+Por otra parte, las condicionales de definen como: es el código que se ejecuta siempre y cuando una circunstancia sea cierta.
+
+Los eventos por su paso son funciones que suceden cuando algo ocurre, sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.
+Las funciones son una herramienta que nos permite escribir código que vamos a re-usar múltiples veces.
+La clase es lo que define las características del Objeto. Un ejemplo de una clase es: la clase Persona, donde las características de la clase serían: altura, peso, género, edad, nombre, etc.
+
+Los arreglos son un conjunto de datos ordenados por posiciones y todos asociados en una sola variable. Los datos pueden ser de cualquier tipo, es decir, es posible crear un arreglo que tenga una string en la primera posición, un número en el segundo, un objeto en el tercero y así sucesivamente. Podremos acceder a estos distintos datos de manera independiente o agrupándolos. Cabe resaltar que un arreglo es un objeto.
+Los objetos son envolturas para código. El navegador tiene algunos objetos nativos como:
+
+Navigator: Es el objeto que contiene las funciones del navegador. También te permite acceder al sistema operativo como el gps, guardar datos en el disco duro, etc.
+window: Es el objeto que maneja cada una de las pestañas.
+document: Es el objeto que contiene todo lo que podemos ver dentro de nuestra página.
+
+En aplicaciones web tenemos un concepto llamado DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol.
+
+Para complementar tus conocimientos puedes continuar con el curso de pensamiento lógico el cual encontraras en platzi.com/cursos/pensamiento-logico/
