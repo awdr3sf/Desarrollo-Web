@@ -1,0 +1,57 @@
+:root{
+    --bg-color: #FFFFFF;
+    --font-family: Roboto;
+    --font-size-title: ;
+    --font-size-des: ;
+    --width-max: ;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    width: 100%;
+    height: 990px;
+    display: flex;
+    flex-direction: row;
+    background-color: #e4e4e4;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 20%;
+    
+}
+
+.logo figure{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    width: 30%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  
+    flex-wrap: wrap;
+}
+
+.formulario{
+display: flex;
+flex-wrap: wrap;
+    width: 40%;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
